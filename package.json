@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sanlouise/react-greenfield/issues"
   },
-  "homepage": "https://github.com/sanlouise/react-greenfield#readme"
+  "homepage": "https://github.com/sanlouise/react-greenfield#readme",
+  "dependencies": {
+    "webpack": "^1.13.2"
+  }
 }
