@@ -1,0 +1,19 @@
+{
+  "name": "react-greenfield",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanlouise/react-greenfield.git"
+  },
+  "author": "sanlouise <www.sandrahallie.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanlouise/react-greenfield/issues"
+  },
+  "homepage": "https://github.com/sanlouise/react-greenfield#readme"
+}
